@@ -1,0 +1,30 @@
+export const babe = require("./babe.png");
+export const bg = require("./bg.jpg");
+export const dollar = require("./dollar.png");
+export const heart = require("./heart.png");
+export const reward = require("./reward.png");
+export const setting = require("./settings.png");
+export const task = require("./tasks.jpg");
+export const home = require("./home.png");
+export const plus = require("./plus.png");
+export const task_name = require("./task_name.jpg");
+export const task_detail = require("./task_detail.png");
+export const task_date = require("./task_date.png");
+export const cat = require("./cat.png");
+export const expand = require("./expand.jpg");
+export const status = require("./status.jpg");
+export const bg1 = require("./bg1.png");
+export const bg2 = require("./bg2.png");
+export const bg3 = require("./bg3.png");
+
+export const reward_bag = require("./reward_bag.png");
+export const password = require("./password.png");
+export const check = require("./check.png");
+export const uncheck = require("./uncheck.png");
+export const dog = require("./dog.png");
+export const category = require("./category.jpg");
+export const shopping = require("./shopping.jpg");
+export const url = require("./url.jpg");
+export const shopping_bag = require("./shopping_bag.png");
+
+export const heart_lock = require("./heart_lock.jpg");

@@ -1,0 +1,23 @@
+.welcome {
+  text-align: center;
+  font-family: "Brush Script MT", cursive;
+}
+
+.level-bar {
+  background-color: rgb(34, 171, 68);
+  height: 15px;
+  width: 25%;
+  border-radius: 10px;
+}
+
+.level-border {
+  display: inline-block;
+  width: 100%;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.level-reward {
+  text-align: right;
+}

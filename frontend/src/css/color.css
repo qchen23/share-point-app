@@ -1,0 +1,30 @@
+.c-darkpink {
+  color: #e75480;
+}
+.c-black {
+  color: black;
+}
+
+.c-blue {
+  color: blue;
+}
+
+.bg-blue {
+  background-color: rgba(37, 50, 193, 0.475);
+}
+
+.bg-red {
+  background-color: rgba(255, 0, 0, 0.8);
+}
+
+.bg-green {
+  background-color: rgb(34, 164, 64);
+}
+
+.c-red {
+  color: red;
+}
+
+.c-w {
+  color: white;
+}

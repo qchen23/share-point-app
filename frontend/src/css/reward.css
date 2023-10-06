@@ -1,0 +1,24 @@
+.redeem-btn {
+  position: absolute;
+  border-radius: 10px;
+  text-decoration: none;
+  background-color: rgb(234, 34, 177);
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 14px;
+  width: 150px;
+  color: white;
+  right: 10px;
+  top: -4px;
+}
+
+.redeem-btn:disabled {
+  background: rgb(179, 175, 175);
+}
+
+.redeem-check {
+  float: right;
+  margin-top: -8px;
+  margin-right: -10px;
+}

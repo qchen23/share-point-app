@@ -1,0 +1,15 @@
+.icon {
+  border-radius: 15px;
+  width: 30px;
+  height: 30px;
+}
+
+.icon-small {
+  border-radius: 10px;
+  width: 20px;
+  height: 20px;
+}
+
+.pointer {
+  cursor: pointer;
+}

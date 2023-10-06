@@ -1,0 +1,78 @@
+.add-task {
+  position: fixed;
+  right: 30px;
+  bottom: 100px;
+  background-color: rgba(240, 228, 228, 0.717);
+  padding: 10px;
+  text-align: center;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.task-img {
+  /* position: absolute; */
+
+  padding-right: 30px;
+  height: 100px;
+  width: auto;
+  float: right;
+}
+
+.task-num {
+  display: inline-block;
+  height: 27px;
+  width: 27px;
+  line-height: 27px;
+  border-radius: 50%;
+  vertical-align: middle;
+  background-color: red;
+  text-align: center;
+  margin-left: 5px;
+  color: white;
+}
+
+.search-input {
+  font-size: 15px;
+}
+
+.search-text {
+  width: 250px;
+}
+
+.search-block {
+  display: inline-block;
+  text-align: center;
+}
+
+.search-btn {
+  border-radius: 10px;
+  text-decoration: none;
+  background-color: rgb(15, 124, 225);
+  border: none;
+  cursor: pointer;
+  padding: 5px 30px;
+  font-size: 15px;
+}
+
+.transition {
+  transition: 0.4s ease transform;
+}
+
+.tf-0 {
+  transform: scale(0);
+}
+
+.tf-1 {
+  transform: scale(1);
+}
+
+.status-btn {
+  border-radius: 10px;
+  text-decoration: none;
+  background-color: rgb(15, 124, 225);
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 14px;
+  width: 100px;
+}

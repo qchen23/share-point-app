@@ -1,0 +1,14 @@
+.card {
+  background-color: white;
+  border-radius: 5px;
+  padding: 5px;
+}
+.card hr {
+  padding: 0px 5px;
+  border: 0;
+  height: 1px;
+  background-color: lightgray;
+}
+.card .item {
+  padding: 0px 10px;
+}
